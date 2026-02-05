@@ -1,0 +1,8 @@
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+*.log
+*.mp4
+*.webp
+temp_in_*
+temp_out_*
