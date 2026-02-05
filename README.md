@@ -4,8 +4,7 @@ Este é um bot simples para criar figurinhas (normais e animadas) no WhatsApp.
 
 ## 🚀 Como instalar
 
-1. **Dependências já instaladas**: Você já instalou os pacotes necessários.
-   Caso precise reinstalar no futuro:
+1. **Dependências**: Caso precise instalar:
    ```bash
    npm install whatsapp-web.js qrcode-terminal sharp fluent-ffmpeg ffmpeg-static
    ```
